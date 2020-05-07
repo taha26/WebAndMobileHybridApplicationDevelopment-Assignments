@@ -1,0 +1,243 @@
+body {
+
+    text-align: center;
+}
+
+img {
+
+    object-fit: cover;
+    margin-top: 10px;
+}
+
+h1 {
+
+    color:mediumslateblue;
+    text-decoration: underline;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    
+}
+
+div {
+
+    text-align: left;
+    background-color: mediumslateblue;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    line-height: 35px;
+    margin-left: 100px;
+    margin-right: 45px;
+    margin-bottom: 50px;
+}
+
+
+table {
+
+    text-align: center;
+    line-height: 10px;
+    margin-left: 0px;
+    padding-left: 0px;
+    
+}
+
+
+#qua {
+
+    padding-right: 53px;
+    padding-left: 1px;
+    
+}
+
+
+#h {
+
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 50px;
+    color: rgb(43, 150, 43);
+}
+
+#pp {
+
+    font-size: 30px;
+    font-weight: bold;
+    color: darkviolet;
+}
+
+#aa {
+
+    font-size: 50px; 
+}
+
+input {
+
+    text-align: center;
+    
+}
+
+#fname {
+
+    margin-left: 100px;
+}
+
+#lname {
+
+    margin-left: 103px;
+}
+
+#dob {
+
+    margin-left: 78px;
+}
+
+#EMAILID {
+
+    margin-left: 123px;
+}
+
+#MOBILENUMBER {
+
+    margin-left: 60px;
+}
+
+#MALE {
+
+    margin-left: 128px;
+}
+
+#Male {
+
+    margin-left: 8px;
+}
+
+#FEMALE {
+
+    margin-left: 20px;
+}
+
+#Female {
+
+    margin-left: 8px;
+}
+
+#Add {
+
+    vertical-align: top;
+}
+
+#ADDRESS {
+
+    margin-left: 120px;
+}
+
+#CITY {
+
+    margin-left: 155px;
+}
+
+#PINCODE {
+
+    margin-left: 118px;
+}
+
+#STATE {
+
+    margin-left: 143px;
+}
+
+#COUNTRY {
+
+    margin-left: 114px;
+}
+
+#hob {
+
+    line-height: 20px;
+}
+
+#draw {
+
+    margin-left: 120px;
+}
+
+#Drawing {
+
+    margin-left: 8px;
+}
+
+#Singing {
+
+    margin-left: 8px;
+}
+
+#Dancing {
+
+    margin-left: 8px;
+}
+
+#Sketching {
+
+    margin-left: 8px;
+}
+
+#Oth {
+
+    margin-left: 192px;
+}
+
+#Others {
+    
+    margin-left: 8px;
+
+}
+
+#Hbox {
+
+    margin-left: 8px;
+}
+
+#courses {
+
+    line-height: 12px;
+}
+
+#bcs {
+
+    margin-left: 86px;
+}
+
+#BCS {
+
+    margin-left: 8px;
+}
+
+#BCom {
+
+    margin-left: 8px;
+}
+
+#BSc {
+
+    margin-left: 8px;
+}
+
+#BA {
+
+    margin-left: 8px;
+}
+
+#Buttons {
+
+    text-align: center;
+    word-spacing: 20px;
+}
+
+button {
+
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    border-style: solid;
+}
