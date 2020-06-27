@@ -1,0 +1,87 @@
+body {
+
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    
+}
+
+.mainDiv {
+    margin: 7% 38%;
+    border: 3px solid #808080;
+    width: 52%;
+    /* height: 430px; */
+    padding: 10px;
+    border-radius: 85px/22px;
+    background-color: black;
+}
+
+.inp {
+    color: white;
+    background-color: #808080;
+    font-size: 35px;
+    width: 97%;
+    height: 80px;
+    border: 3px solid rgb(250, 250, 250);
+    border-radius: 15px;
+    outline: none;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+
+.btn0 {
+    background-color: white;
+    /* border: 1px solid #808080; */
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    margin: 3px 1px;
+    width: 57%;
+    height: 60px;
+    font-size: 30px;
+}
+
+.btn2 {
+    background-color: white;
+    /* border: 1px solid #808080; */
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    margin: 3px 1px;
+    width: 87%;
+    height: 60px;
+    font-size: 30px;
+}
+
+
+.btn {
+    background-color: white;
+    /* border: 1px solid #808080; */
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    margin: 3px 1px;
+    width: 28%;
+    height: 60px;
+    font-size: 30px;
+}
+
+.btn3 {
+    background-color: white;
+    /* border: 1px solid #808080; */
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    margin: 3px 1px;
+    width: 59px;
+    height: 60px;
+    font-size: 30px;
+}
+
+.del {
+    background-color: rgb(236, 48, 48);
+}
+
+.equalto {
+    background-color: rgb(230, 74, 18);
+}

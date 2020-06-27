@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="mainDiv">
+        <div>
+            <input id="inp" class="inp" type="text">
+        </div>
+        <div>
+            <button class="btn0" onclick="clearNumber()">CLEAR</button>
+            <button class="btn del" onclick="delNumber()">del</button>
+            <button class="btn3" onclick="showNumber('/')">/</button>
+        </div>
+        <div>
+            <button class="btn" onclick="showNumber('7')">7</button>
+            <button class="btn" onclick="showNumber('8')">8</button>
+            <button class="btn" onclick="showNumber('9')">9</button>
+            <button class="btn3" onclick="showNumber('*')">x</button>
+        </div>
+        <div>
+            <button class="btn" onclick="showNumber('4')">4</button>
+            <button class="btn" onclick="showNumber('5')">5</button>
+            <button class="btn" onclick="showNumber('6')">6</button>
+            <button class="btn3" onclick="showNumber('-')">-</button>
+        </div>
+        <div>
+            <button class="btn" onclick="showNumber('1')">1</button>
+            <button class="btn" onclick="showNumber('2')">2</button>
+            <button class="btn" onclick="showNumber('3')">3</button>
+            <button class="btn3" onclick="showNumber('+')">+</button>
+        </div>
+        <div>
+            <button class="btn0" onclick="showNumber('0')">0</button>
+            <button class="btn" onclick="showNumber('.')">.</button>
+            <button class="btn3 equalto" onclick="eqNumber()">=</button>
+        </div>
+    </div>
+</body>
+<script src="app.js"></script>
+</html>
